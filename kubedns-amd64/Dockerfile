@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubedns-amd64:1.6.2
+FROM gcr.io/google_containers/kubedns-amd64:1.14.1
 MAINTAINER xiaopeifeng <xiaopeifenng@gmail.com>
